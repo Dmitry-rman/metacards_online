@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"AndroidIcon.png": "1bdb947b90a333101390ef0f40896062",
 "flutter_bootstrap.js": "6911e4c54200bd690de191e8b8006176",
-"version.json": "47112b2f19eee292764cf2f116dc93e9",
+"version.json": "0d335e740c3655da5e1037e056e3e2f5",
 "splash/img/light-background.png": "62a55a8af739fa259578ac29570c8a36",
 "index.html": "0df7349baec155c4583e52dc48009912",
 "/": "0df7349baec155c4583e52dc48009912",
